@@ -25,7 +25,7 @@
 - [ ] 6. [Alcance](#6-alcance)
 - [ ] 7. [Reglamento](#7-reglamento)
 - [ ] 8. [Manejo de Reuniones](#8-manejo-de-reuniones)
-- [ ] 9. [Alianzas]()
+- [ ] 9. [Alianzas](#9-alianzas)
 
 ---
 
