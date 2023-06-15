@@ -1,13 +1,12 @@
 # CDS
 
+---
+
 ### Comunidad de Desarollo de Software
 
-```
-// Premisa 1
-console.log("Si la persona no quiere aprender, aunque le enseñes no aprendera");
-console.log("Si la persona quiere aprender, no hace falta que le enseñes...");
+> Si la persona no quiere aprender, aunque le enseñes no aprendera..., pero si la persona quiere aprender, no hace falta que le enseñes...
 
-```
+---
 
 ## Temas Puntuales
 
@@ -28,6 +27,8 @@ console.log("Si la persona quiere aprender, no hace falta que le enseñes...");
 - [ ] 8. [Manejo de Reuniones](#8-manejo-de-reuniones)
 - [ ] 9. [Alianzas]()
 
+---
+
 ## 1. Introduccion
 
 En el presente documento esta plasmado lo que es actualmente el CDS (Comunidad de Desarrollo de Software).
@@ -46,11 +47,9 @@ En el presente documento esta plasmado lo que es actualmente el CDS (Comunidad d
 
 ### 2.2. Objetivos : Fase N
 
-```
-/*
- *  POR DEFINIR CON EL EQUIPO DE TRABAJO . . .
- */
-```
+> - POR DEFINIR CON EL EQUIPO DE TRABAJO . . .
+
+---
 
 ## 3. Estructura Organizacional
 
@@ -131,6 +130,8 @@ Y para mas adelante :
 
 - Area legal.
 
+---
+
 ## 4. Actividades
 
 En el CDS se realizara las siguientes actividades:
@@ -145,10 +146,14 @@ En el CDS se realizara las siguientes actividades:
 
 - **Confraternizacion :** Reuniones casuales para confraternizar entre la comunidad. Habran 2 tipos, la confraternizacion general y la de las mejores puntuaciones.
 
+---
+
 ## 5. Sistema de Puntuacion
 
 Definir un sistema de puntuación para evaluar el progreso individual y colectivo.
 Criterios de puntuación basados en logros, participación y contribución.
+
+---
 
 ## 6. Alcance
 
@@ -162,6 +167,8 @@ Lo definimos en las siguientes areas :
 
 - **Como Comunidad :** Apoyar e incentivar a los miembros de la comunidad en su desarrollo como futuros profesionales preparados.
 
+---
+
 ## 7. Reglamento
 
 > Establecimiento de reglas y normas para promover la colaboración, el respeto y la ética en la comunidad.
@@ -174,14 +181,16 @@ Como ser :
 
 - **Participacion :** muestra de avance ... por definir...
 
+---
+
 ## 8. Manejo de reuniones
 
 > Guía para conducir reuniones efectivas, incluyendo la preparación, la estructura y la toma de decisiones.
 
-...Por definir
+## _...Por definir_
 
 ## 9. Alianzas
 
 > Exploración de oportunidades de colaboración con otras organizaciones y comunidades relacionadas.
 
-...Por definir
+_...Por definir_
