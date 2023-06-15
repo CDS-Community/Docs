@@ -11,22 +11,22 @@ console.log("Si la persona quiere aprender, no hace falta que le enseñes...");
 
 ## Temas Puntuales
 
-- [] 1. [Introduccion](#1-introduccion)
-- [] 2. [Objetivos](#2-objetivos)
-- [] 2.1. [Objetivos : Fase 0](#21-objetivos--fase-0)
-- [] 2.1. [Objetivos : Fase N](#22-objetivos--fase-n)
-- [] 3. [Estructura Organizacional](#3-estructura-organizacional)
-- [] 3.1. [Miembros del CDS](#31-miembros-del-cds)
-- [] 3.1.1. [Nivel Inicial](#311-nivel-inicial)
-- [] 3.1.2. [Nivel Intermedio](#312-nivel-intermedio)
-- [] 3.1.3. [Nivel Avanzado](#313-nivel-avanzado)
-- [] 3.2. [Equipo de Trabajo del CDS (STAFF)](#32-equipo-de-trabajo-del-cds-staff)
-- [] 4. [Actividades](#4-actividades)
-- [] 5. [Sistema de Puntuacion](#5-sistema-de-puntuacion)
-- [] 6. [Alcance](#6-alcance)
-- [] 7. [Reglamento](#7-reglamento)
-- [] 8. [Manejo de Reuniones](#8-manejo-de-reuniones)
-- [] 9. [Alianzas]()
+- [ ] 1. [Introduccion](#1-introduccion)
+- [ ] 2. [Objetivos](#2-objetivos)
+- [ ] 2.1. [Objetivos : Fase 0](#21-objetivos--fase-0)
+- [ ] 2.1. [Objetivos : Fase N](#22-objetivos--fase-n)
+- [ ] 3. [Estructura Organizacional](#3-estructura-organizacional)
+- [ ] 3.1. [Miembros del CDS](#31-miembros-del-cds)
+- [ ] 3.1.1. [Nivel Inicial](#311-nivel-inicial)
+- [ ] 3.1.2. [Nivel Intermedio](#312-nivel-intermedio)
+- [ ] 3.1.3. [Nivel Avanzado](#313-nivel-avanzado)
+- [ ] 3.2. [Equipo de Trabajo del CDS (STAFF)](#32-equipo-de-trabajo-del-cds-staff)
+- [ ] 4. [Actividades](#4-actividades)
+- [ ] 5. [Sistema de Puntuacion](#5-sistema-de-puntuacion)
+- [ ] 6. [Alcance](#6-alcance)
+- [ ] 7. [Reglamento](#7-reglamento)
+- [ ] 8. [Manejo de Reuniones](#8-manejo-de-reuniones)
+- [ ] 9. [Alianzas]()
 
 ## 1. Introduccion
 
