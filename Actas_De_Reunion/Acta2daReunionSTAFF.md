@@ -24,27 +24,27 @@ Registro de asistencia, Distribución eficaz de personal, Control a la entrega d
 
 ## 2. Lo nuevo que viene con el GDG y Mujeres TIC's
 - **Agosto**
-    - Evento del GDG.
-    - Talleres del GDG.
+    -Evento del GDG.
+    -Talleres del GDG.
 
 ---
 
 ## 3. Proyectos a presentar: Evento CDS
-    - Brayan  -> Sistema Contable en jsf y jsp. (Su primer sistema de pasantía).
-    - Harold  -> Sistema de control de horarios de los laboratorios (Proyecto de Laboratorios de la UAGRM).
-    - Sebastian -> Pendiente.
-    - Marco -> Pendiente.
-    - Miguel -> Pendiente.
-    - Ruben = No asistió a la reunión.
-    - Diego -> Chatbot Santa Cruz. (Proyecto Hackaton).
-    - Luis Miguel -> Pendiente.    
+- Brayan  -> Sistema Contable en jsf y jsp. (Su primer sistema de pasantía).
+- Harold  -> Sistema de control de horarios de los laboratorios (Proyecto de Laboratorios de la UAGRM).
+- Sebastian -> Pendiente.
+- Marco -> Pendiente.
+- Miguel -> Pendiente.
+- Ruben = No asistió a la reunión.
+- Diego -> Chatbot Santa Cruz. (Proyecto Hackaton).
+- Luis Miguel -> Pendiente.    
 
 ---
 
 ## 4. Puntos Adicionales
-    - Código de Vestimenta: Hacer poleras para el STAFF, etc.
-    - Rifa/Sorteo.
-    - Gafetes/Manillas para asistentes (Misma manilla para rifa).
-    - Premios: mes de cursos (DEV-talles).    
-    - Logo CDS y diseño para poleras.
+- Código de Vestimenta: Hacer poleras para el STAFF, etc.
+- Rifa/Sorteo.
+- Gafetes/Manillas para asistentes (Misma manilla para rifa).
+- Premios: mes de cursos (DEV-talles).    
+- Logo CDS y diseño para poleras.
 ---

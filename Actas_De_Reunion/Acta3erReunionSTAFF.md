@@ -4,7 +4,7 @@
 
 ## Metodologia de las reuniones
 
-> Cada reunion tendra un anfitrion que dirigirá la reunión según los puntos a tratar. Cualquier miembro del _STAFF_ puede tomar la palabra. La participacion activa es importante.
+> Cada reunión tendrá un anfitrión que dirigirá la reunión según los puntos a tratar. Cualquier miembro del _STAFF_ puede tomar la palabra. La participación activa es importante.
 
 ---
 
@@ -22,13 +22,13 @@
 
 ---
 
-- evento de prueva para practicar como seria nuestro evento oficial: roles asignado, etc...
-- no invitacion abierta, si no solo conocidos
-- presentacion demo de proyectos
-- una semana antes del evento oficial
-- limite de inivtados : **30 max**.
+- Evento de prueba para practicar como sería nuestro evento oficial: roles asignado, etc...
+- No invitación abierta, si no solo conocidos.
+- Presentación demo de proyectos.
+- Una semana antes del evento oficial.
+- Límite de invitados : **30 max**.
 
-* [x] retoalimentacion : APROBADO
+* [x] Retoalimentacion : APROBADO.
 
 <br>
 
@@ -36,19 +36,19 @@
 
 ---
 
-- Fecha : 1 semana despues de que oficialmente termien el semestre (11 o 12 dse agosto aprox)
+- Fecha : 1 semana después de que oficialmente terminen el semestre (11 o 12 dse agosto aprox).
 
-Comiciones:
+Comisiones:
 
-- registro : Alan, miguel G.
-- fotografia y video : Ruben, rodrigo, guido
-- control de tiempo : vargas, chrstian
-- media y transmicion : david, jaz
-- coordiancion y ambiente : haidy, sebastian
-- refrigerio : luis A., jhenny
-- host : brayan, job
+- Registro : Alan, Miguel G.
+- Fotografía y Vídeo : Ruben, Rodrigo, Guido.
+- Control de tiempo : Vargas, Christian.
+- Media y transmisión : David, Jazmín.
+- Coordinación y ambiente : Heidy, Sebastian.
+- Refrigerio : Luis A., Jhenny.
+- Host : Brayan, Job.
 
-- presentacion de proyectos : a quien correspondan...
+- Presentación de proyectos : a quienes correspondan...
 
 <br>
 
@@ -57,19 +57,19 @@ Comiciones:
 ---
 
 - Marketing y diseño :
-  1. integrantes de area : jhenny, jaz, rodrigo, heidy, vargas, guido, christian, job.
+  1. Integrantes de área: Jhenny, Jazmín, Rodrigo, Heidy, Vargas, Guido, Christian, Job.
 
 **_Antes de esto tener el logo y redes sociales._**
 
-- tener un propio correo electronico de la comunidad. En base a esto crear las redes sociales...
+- Tener un propio correo electrónico de la comunidad. En base a esto crear las redes sociales...
 
 * A preparar :
 
-  1. Compartir publicaciones introductorias sobre el evento y la comunidad
-  2. Imagenes con decripcion y videos(videso opcional)
-  3. Guiarnos en las paginas de las comunidades existentes
-  4. Basicamente 3 artex aprosimadamente
-  5. diseño de poles... [x] **_APROBADO_**
+  1. Compartir publicaciones introductorias sobre el evento y la comunidad.
+  2. Imágenes con descripción y vídeos (videos opcional).
+  3. Guiarnos en las páginas de las comunidades existentes.
+  4. Básicamente 3 artes aproximadamente.
+  5. Diseño de roles... [x] **_APROBADO_**
 
 <br>
 
@@ -77,9 +77,9 @@ Comiciones:
 
 ---
 
-- Enviar al chat privado de _brayan_ los posibles candidatos a STAFF
-- Presentarse en la sig reunion
-- como maximo 1 por persona
+- Enviar al chat privado de _Brayan_ los posibles candidatos a STAFF.
+- Presentarse en la sig reunión.
+- Como máximo 1 por persona.
 
 <br>
 
@@ -95,9 +95,9 @@ Aprender git por lo menos a nivel intermedio... TODOS...
 
 ---
 
-- Lugar sede : centro historico de ing informatica
+- Lugar sede: Centro Histórico de Ing. Informática.
 
-- proyectos de practica y mas adelante lucrativos : con el nivel avanzado ni bien comience la comunidad. actividad a cargo de brayan.
+- Proyectos de práctica y mas adelante lucrativos: con el nivel avanzado ni bien comience la comunidad. Actividad a cargo de Brayan.
 
 <br>
 
@@ -105,9 +105,9 @@ Aprender git por lo menos a nivel intermedio... TODOS...
 
 ---
 
-**_Para la sig reunion :_**
+**_Para la sig reunión:_**
 
-1. propuesta de logo por parte de todos:
-   - Yo (Jhenny) propuse que se proponga un logo por parte de todos , ya sea diseño propio o una recomendación de otra comunidad similar quizás , ya que tiene que ir acorde a la misión y visión de la comunidad.
+1. Propuesta de logo por parte de todos:
+   - Yo (Jhenny) propuse que se proponga un logo por parte de todos , ya sea diseño propio o una recomendación de otra comunidad similar quizás, ya que tiene que ir acorde a la misión y visión de la comunidad.
 
 <br>
