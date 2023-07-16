@@ -4,11 +4,15 @@
 
 ### Comunidad de Desarollo de Software
 
-> Si la persona no quiere aprender, aunque le enseñes no aprenderá..., pero si la persona quiere aprender, no hace falta que le enseñes...
-
 ---
 
+> Si la persona no quiere aprender, aunque le enseñes no aprenderá..., pero si la persona quiere aprender, no hace falta que le enseñes...
+
+<br>
+
 ## Temas Puntuales
+
+---
 
 - [ ] 1. [Introducción](#1-introducción)
 - [ ] 2. [Objetivos](#2-objetivos)
@@ -27,31 +31,45 @@
 - [ ] 8. [Manejo de Reuniones](#8-manejo-de-reuniones)
 - [ ] 9. [Alianzas](#9-alianzas)
 
----
+<br>
 
 ## 1. Introducción
 
+---
+
 En el presente documento esta plasmado lo que es actualmente el CDS (Comunidad de Desarrollo de Software).
+
+<br>
 
 ## 2. Objetivos
 
+---
+
 ### 2.1. Objetivos : Fase 0
 
-1 - Encontrar una estructura funcional para la comunidad.
 
-2 - Organizar un evento para presentar la comunidad (Presentar el STAFF).
 
-3 - Desarrollar proyectos de prueba para mejorar las habilidades de los miembros del grupo.
+1. Encontrar una estructura funcional para la comunidad.
 
-4 - Apoyar talleres de nuestra área.
+2. Organizar un evento para presentar la comunidad (Presentar el STAFF).
+
+3. Desarrollar proyectos de prueba para mejorar las habilidades de los miembros del grupo.
+
+4. Apoyar talleres de nuestra área.
+
+<br>
 
 ### 2.2. Objetivos : Fase N
 
+
+
 > - POR DEFINIR CON EL EQUIPO DE TRABAJO . . .
 
----
+<br>
 
 ## 3. Estructura Organizacional
+
+---
 
 Se dividen en dos grandes áreas:
 
@@ -59,7 +77,11 @@ Se dividen en dos grandes áreas:
 
 - Equipo de Trabajo del CDS (STAFF)
 
+<br>
+
 ### 3.1. Miembros del CDS
+
+---
 
 Entre los miembros de la comunidad estan definidos niveles, de acuerdo a las habilidades que estos tengan en nuestra área.
 
@@ -74,7 +96,11 @@ Los niveles son los siguientes:
 En todo los niveles se realizarán pruebas para verificar si cumplen con los requisitos de cada nivel.
 Para escalar en los niveles se tendra que aplicar a dichas pruebas.
 
+<br>
+
 #### 3.1.1. Nivel Inicial
+
+---
 
 En este nivel se encontraran todos aquellos que :
 
@@ -86,7 +112,11 @@ En este nivel se encontraran todos aquellos que :
 
 Este nivel está enfocado a motivarte a comenzar a aprender a desarollar una solucion de software.
 
+<br>
+
 #### 3.1.2. Nivel Intermedio
+
+---
 
 En este nivel se encontrarán todos aquellos que :
 
@@ -96,7 +126,11 @@ En este nivel se encontrarán todos aquellos que :
 
 Este nivel está enfocado a impulsarte en que lleves tus habilidades al siguiente nivel : desarrollar una solución de software o un producto comercializable.
 
+<br>
+
 #### 3.1.3. Nivel Avanzado
+
+---
 
 En este nivel se encontraran todos aquellos que :
 
@@ -106,7 +140,11 @@ En este nivel se encontraran todos aquellos que :
 
 Este nivel está enfocado a poner en practica tus hablidades con proyectos de practica y/o profesionales.
 
+<br>
+
 ### 3.2. Equipo de Trabajo del CDS (STAFF)
+
+---
 
 Este equipo esta encargado principalmente de hacer funcionar la comunidad.
 
@@ -122,7 +160,7 @@ Dentro del STAFF existen las siguientes asignaciones :
 
 - **Marketing :** Encargados de todo el tema audio visual en la comunidad, tanto del antes, durante y después de las reuniones. Realizan fotografía, vídeo, edición, artes, posteo en redes sociales y manejo de las mismas.
 
-Y para más adelante :
+***Y para más adelante :***
 
 - Papeleo.
 
@@ -130,9 +168,11 @@ Y para más adelante :
 
 - Área legal.
 
----
+<br>
 
 ## 4. Actividades
+
+---
 
 En el CDS se realizarán las siguientes actividades:
 
@@ -146,16 +186,20 @@ En el CDS se realizarán las siguientes actividades:
 
 - **Confraternización :** Reuniones casuales para confraternizar entre la comunidad. Habrán 2 tipos, la confraternización general y la de las mejores puntuaciones.
 
----
+<br>
 
 ## 5. Sistema de Puntuación
+
+---
 
 Definir un sistema de puntuación para evaluar el progreso individual y colectivo.
 Criterios de puntuación basados en logros, participación y contribución.
 
----
+<br>
 
 ## 6. Alcance
+
+---
 
 Identificación de áreas de conocimiento a explorar y desarrollar.
 
@@ -167,13 +211,15 @@ Lo definimos en las siguientes áreas :
 
 - **Como Comunidad :** Apoyar e incentivar a los miembros de la comunidad en su desarrollo como futuros profesionales preparados.
 
----
+<br>
 
 ## 7. Reglamento
 
+---
+
 > Establecimiento de reglas y normas para promover la colaboración, el respeto y la ética en la comunidad.
 
-Como ser :
+***Como ser :***
 
 - **Asistencias :** Todos los miembros deben de asistir a las reuniones que se realicen, existiendo 2 _faltas_ continuas y 3 discontinuas dentro de un rango de 2 meses. Caso se pasen de estas se pasará a _miembro inactivo_. Esto de forma de prevención, comprensión y apoyo a la falta de desarrollo, esto debido a que por circunstancias externas o personales que estén fuera de su control. Así podra reincorporarse cuando todo mejore.
 
@@ -181,16 +227,20 @@ Como ser :
 
 - **Participación :** Muestra de avance ... por definir...
 
----
+<br>
 
 ## 8. Manejo de reuniones
 
+---
+
 > Guía para conducir reuniones efectivas, incluyendo la preparación, la estructura y la toma de decisiones.
 
-## _...Por definir_
+- ***...Por definir***
 
 ## 9. Alianzas
 
+---
+
 > Exploración de oportunidades de colaboración con otras organizaciones y comunidades relacionadas.
 
-_...Por definir_
+- ***...Por definir***
