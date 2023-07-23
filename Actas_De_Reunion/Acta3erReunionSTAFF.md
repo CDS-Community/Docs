@@ -1,4 +1,4 @@
-# Reunión Nro : 1
+# Reunión Nro : 3
 
 ---
 
@@ -11,10 +11,12 @@
 ## Temas Puntuales
 
 - [x] 1. [Preparación : evento _demo_ de Lanzamiento público del CDS](#1-preparación--evento-demo-de-lanzamiento-público-del-cds)
-- [ ] 2. [](#)
-- [ ] 3. [](#)
-- [ ] 4. [](#)
-- [ ] 5. [](#)
+- [ ] 2. [Preparaciones pre evento Lanzamiento público del CDS : Marketing, Redes Sociales y Diseño](#2-preparaciones-pre-evento-lanzamiento-público-del-cds--marketing-redes-sociales-y-diseño)
+- [ ] 3. [Repartición de comisiones para actividades anteriormente mencionadas](#3-repartición-de-comisiones-para-actividades-anteriormente-mencionadas)
+- [ ] 4. [Convocatoria interna de posibles nuevos miembros del STAFF](#4-convocatoria-interna-de-posibles-nuevos-miembros-del-staff)
+- [ ] 5. [Modificación del sistema de seguimiento de progreso y puntuaciones (GIT)](#5-modificación-del-sistema-de-seguimiento-de-progreso-y-puntuaciones-git)
+- [ ] 6. [Buenas noticias : Lugar fijo para CDS, Proyectos de practica y lucrativos, Nuevas alianzas](#6-buenas-noticias--lugar-fijo-para-cds-proyectos-de-practica-y-lucrativos-nuevas-alianzas)
+- [ ] 7. [Otros…](#7-otros)
 
 <br>
 
