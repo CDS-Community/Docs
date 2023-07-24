@@ -22,10 +22,10 @@
 Nuevas propuestas :
 
 ```bash
-
+ hoy nohubo propuestas
 ```
 
-Votacion :
+Votacion : ***jueves 27***
 
 <br>
 
@@ -41,8 +41,6 @@ Votacion :
 
 ## 3. Auncio : GDSC
 
----
-
 - [Una mirada al GDSC](https://developers.google.com/community/gdsc?hl=es-419)
 
 - Como comenzo y comenzara esta aventura...
@@ -53,7 +51,8 @@ Votacion :
 
 ## 4. Otros…
 
----
+* Las comiciones para la demo
+* Trabajo de marketing
 
 <br>
 
