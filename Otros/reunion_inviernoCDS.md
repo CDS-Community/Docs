@@ -90,7 +90,7 @@ El siguiente enlace nos dirigira al formulario de postulacion de los voluntarios
 Estos primeros talleres, en teoria, ya estan preparados y listos para ser dictados. Lo que resptaria es coordinar la ***fecha de inicio*** acorde al tiempo del tutor.
 Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion de artes*** en las RRSS, junto con esto esta el crear el ***formulario de inscripcion*** para almacenar los datos de los incritos.
 
-#### 2.1.1. Taller de HTML: Basico
+#### 2.1.1. Taller de Algoritmia
 - Artes:
 - Fecha de publicacion: 
 - Inscripcion:
@@ -99,7 +99,7 @@ Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion 
 - Fecha de fin:
 - Cantidad de inscritos esperados: 
 
-#### 2.1.2. Taller de CSS: Basico
+#### 2.1.2. Taller de HTML: Basico
 - Artes:
 - Fecha de publicacion: 
 - Inscripcion:
@@ -108,7 +108,7 @@ Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion 
 - Fecha de fin:
 - Cantidad de inscritos esperados: 
 
-#### 2.1.3. Taller de JS: Basico
+#### 2.1.3. Taller de CSS: Basico
 - Artes:
 - Fecha de publicacion: 
 - Inscripcion:
@@ -117,7 +117,7 @@ Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion 
 - Fecha de fin:
 - Cantidad de inscritos esperados: 
 
-#### 2.1.4. Taller de GIT: Basico
+#### 2.1.4. Taller de JS: Basico
 - Artes:
 - Fecha de publicacion: 
 - Inscripcion:
@@ -126,7 +126,7 @@ Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion 
 - Fecha de fin:
 - Cantidad de inscritos esperados: 
 
-#### 2.1.5. Taller de Algoritmia
+#### 2.1.5. Taller de GIT: Basico
 - Artes:
 - Fecha de publicacion: 
 - Inscripcion:
@@ -135,12 +135,6 @@ Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion 
 - Fecha de fin:
 - Cantidad de inscritos esperados: 
 
-
-1. [_Repacemos un poco..._](../Documento.md) **->** Un vistazo rapido a los documentos.
-
-2. **_¿Que se quiere evitar? ->_** Una cruda realidad en la actualidad.
-
-3. **_¿Que se quiere lograr? ->_** Hay que considerarlo bien, por que se biene muchas actividades en pro de hacer esto realidad.
 
 <br>
 
