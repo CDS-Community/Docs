@@ -11,15 +11,22 @@
 ## Temas Puntuales
 
 - [x] 1. [Divicion de los Voluntarios CDS - en equipos para las diferentes actividades acordes a sus areas](#1-divicion-de-los-voluntarios-cds---en-equipos-para-las-diferentes-actividades-acordes-a-sus-areas)
-    - 1.1. [Cantidad de voluntarios y areas a las que postularon](#1.1-cantidad-de-voluntarios-y-areas-a-las-que-postularon)
-    - 1.2. [Segmentacion de voluntarios y creacion de equipos](#1.2-segmentacion-de-voluntarios-y-creacion-de-equipos)
-        - 1.2.1. [Marketing](#1.2.1-marketing)
-        - 1.2.2. [Logistica](#1.2.2-logistica)
-        - 1.2.3. [Relaciones Exteriores](#1.2.3-relaciones-exteriores)
-        - 1.2.4. [Finanzas](#1.2.4-finanzas)
-- [x] 2. [¿Por que estamos en el STAFF del CDS?](#2-¿por-que-estamos-en-el-staff-del-cds)
-- [x] 3. [Auncio : GDSC](#3-auncio--gdsc)
+    - 1.1. [Cantidad de voluntarios y areas a las que postularon](#11-cantidad-de-voluntarios-y-areas-a-las-que-postularon)
+    - 1.2. [Segmentacion de voluntarios y creacion de equipos](#12-segmentacion-de-voluntarios-y-creacion-de-equipos)
+        - 1.2.1. [Marketing](#121-marketing)
+        - 1.2.2. [Logistica](#122-logistica)
+        - 1.2.3. [Relaciones Exteriores](#123-relaciones-exteriores)
+        - 1.2.4. [Finanzas](#124-finanzas)
+- [x] 2. [2. Actividades de Invierno: bootcamp "Web Skills 💻🔥"](#2-actividades-de-invierno-bootcamp-web-skills-💻🔥)
+    - 2.1. [Primeros Talleres nivel Basico](#21-primeros-talleres-nivel-basico)
+        - 2.1.1. [Taller de HTML: Basico](#211-taller-de-html-basico)
+        - 2.1.2. [Taller de CSS: Basico](#212-taller-de-css-basico)
+        - 2.1.3. [Taller de JS: Basico](#213-taller-de-js-basico)
+        - 2.1.4. [Taller de GIT: Basico](#214-taller-de-git-basico)
+        - 2.1.5. [Taller de Algoritmia](#215-taller-de-algoritmia)
+- [x] 3. [3. Auncio : Acelera tu desarrollo: Grupo de estudio y crecimiento CDS](#3-auncio--acelera-tu-desarrollo-grupo-de-estudio-y-crecimiento-cds)
 - [x] 4. [Otros…](#4-otros)
+
 
 <br>
 
@@ -137,20 +144,15 @@ Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion 
 
 <br>
 
-## 3. Auncio : GDSC
+## 3. Auncio : Acelera tu desarrollo: Grupo de estudio y crecimiento CDS
 
-- [Una mirada al GDSC](https://developers.google.com/community/gdsc?hl=es-419)
 
-- Como comenzo y comenzara esta aventura...
-
-- Invitacion
 
 <br>
 
 ## 4. Otros…
 
-* Las comiciones para la demo
-* Trabajo de marketing
+
 
 <br>
 
