@@ -91,48 +91,53 @@ Estos primeros talleres, en teoria, ya estan preparados y listos para ser dictad
 Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion de artes*** en las RRSS, junto con esto esta el crear el ***formulario de inscripcion*** para almacenar los datos de los incritos.
 
 #### 2.1.1. Taller de Algoritmia
-- Artes:
-- Fecha de publicacion: 
-- Inscripcion:
-- Tutor: 
-- Fecha de inicio: 
-- Fecha de fin:
+- Artes: 25 - 27 de mayo
+- Fecha de publicacion: 27 de mayo
+- Inscripcion: 27 de mayo
+- Tutor: Job Natanael
+- Fecha de inicio: 3 de junio
+- Sesiones: dos veces a la semana
+- Fecha de fin: 13 de junio
 - Cantidad de inscritos esperados: 
 
 #### 2.1.2. Taller de HTML: Basico
-- Artes:
-- Fecha de publicacion: 
-- Inscripcion:
-- Tutor: 
-- Fecha de inicio: 
-- Fecha de fin:
+- Artes: 25 - 27 de mayo
+- Fecha de publicacion: 27 de mayo
+- Inscripcion: 27 de mayo
+- Tutor: MIGUEL GUTIERREZ
+- Fecha de inicio: 4 DE JUNIO
+- Fecha de fin: 14 de junio
+- Cadencia: 2 dias a la semana.
 - Cantidad de inscritos esperados: 
 
 #### 2.1.3. Taller de CSS: Basico
-- Artes:
-- Fecha de publicacion: 
-- Inscripcion:
-- Tutor: 
-- Fecha de inicio: 
-- Fecha de fin:
+- Artes: 25 - 27 de mayo
+- Fecha de publicacion: 27 de mayo
+- Inscripcion:27 de mayo
+- Tutor: MIGUEL GUTIERREZ
+- Fecha de inicio: 4 DE JUNIO
+- Fecha de fin: 14 de junio
+- CADENCIA: 2 dias a la semana.
 - Cantidad de inscritos esperados: 
 
 #### 2.1.4. Taller de JS: Basico
-- Artes:
-- Fecha de publicacion: 
-- Inscripcion:
-- Tutor: 
-- Fecha de inicio: 
-- Fecha de fin:
+- Artes: 25 - 27 de mayo
+- Fecha de publicacion: 27 de mayo
+- Inscripcion:27 de mayo
+- Tutor: ALAN MELGAR
+- Fecha de inicio: 5 DE JUNIO
+- Fecha de fin: 15 de junio
+- CADENCIA: 2 clases por semana
 - Cantidad de inscritos esperados: 
 
 #### 2.1.5. Taller de GIT: Basico
-- Artes:
-- Fecha de publicacion: 
-- Inscripcion:
-- Tutor: 
-- Fecha de inicio: 
-- Fecha de fin:
+- Artes: 25 - 27 de mayo
+- Fecha de publicacion: 27 de mayo
+- Inscripcion: 27 de mayo
+- Tutor: LUIS GABRIEL JANCO
+- Fecha de inicio: 9 de junio.
+- Fecha de fin: 16 de junio.
+- CADENCIA: 1    clase por semana.
 - Cantidad de inscritos esperados: 
 
 
@@ -140,13 +145,20 @@ Asi tambien, luego de esto sera coordinar la decha de ***creacion y publicacion 
 
 ## 3. Auncio : Acelera tu desarrollo: Grupo de estudio y crecimiento CDS
 
-
+- En espera que el tutor de estabilice.
 
 <br>
 
 ## 4. Otros…
 
+### 4.1. Dia de la madre
+Se esta viendo el hacer un pequeño taller o video tutorial para crear una targeta web para el dia de la madre.
+Puede ser las clasicas flores rojas.
 
+- Artes: 23 - 25 de mayo
+- Copy para publicaciones (whatsapp, facebook, instagram, linkedin): 25 de mayo
+- Fecha de publicacion: 25 de mayo
+- Tutor: Kevin Gomez
 
 <br>
 
